@@ -4,6 +4,11 @@
 [![Build](https://img.shields.io/badge/iOS%20Tested-success-brightgreen.svg)](https://github.com/MindSea/ManitobaRN)
 [![Build](https://img.shields.io/badge/Android%20Tested-success-brightgreen.svg)](https://github.com/MindSea/ManitobaRN)
 
+
+https://user-images.githubusercontent.com/5301627/228930405-832fa1ac-e2f3-48a3-beda-a1e0ca351744.mp4
+
+
+
 ## Installation :
 
 ```bash
