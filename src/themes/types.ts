@@ -1,0 +1,33 @@
+export type ColorKey =
+  | 'primary'
+  | 'secondary'
+  | 'tertiary'
+  | 'textPrimary'
+  | 'textSecondary'
+  | 'textPrimaryInvert'
+  | 'textSecondaryInvert'
+  | 'textLink'
+  | 'disabledText'
+  | 'pageBackground'
+  | 'headerBackground'
+  | 'buttonPrimary'
+  | 'buttonPrimaryPressed'
+  | 'buttonSecondary'
+  | 'buttonSecondaryPressed'
+  | 'EMERALD'
+  | 'SUN_FLOWER'
+  | 'ORANGE'
+  | 'MIDNIGHT_BLUE'
+  | 'ASBESTOS'
+  | 'CONCRETE'
+  | 'SILVER'
+  | 'CLOUDS'
+  | 'WHITE'
+  | 'BLACK'
+  | 'TRANSPARENT'
+  | 'GREY_SHADOW_7'
+  | 'BLACK_OPACITY_7'
+
+export type ColorGroup<T extends string> = Record<T, string>
+
+export type ColorType = ColorGroup<ColorKey>

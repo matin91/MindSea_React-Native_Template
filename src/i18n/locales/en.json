@@ -1,0 +1,25 @@
+{
+  "common": {
+    "english": "English"
+  },
+  "Header": {
+    "back": "Back"
+  },
+  "Homepage": {
+    "welcome": "Welcome to my React-Native App \uD83D\uDE80",
+    "gotoUsersList": "Go to Users List",
+    "inputPlaceholder": "Type something here...",
+    "openModal": "Open Modal",
+    "link": "here's a link"
+  },
+  "UsersList": {
+    "UsersList": "Users List"
+  },
+  "ModalPage": {
+    "PageName": "Modal Page",
+    "thisIsAModal": "This is a modal!"
+  },
+  "UserDetails": {
+    "UserDetails": "User Details"
+  }
+}
